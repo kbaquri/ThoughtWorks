@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crafts Beer</string>
+    <string name="cover_art_of_beer">Cover Art of Beer</string>
+    <string name="add_cart">Add to Cart</string>
+    <string name="search_by_beer_name">Search Beer</string>
+    <string name="crafts">CRAFTS</string>
+    <string name="beer">Beer</string>
+    <string name="content">Online store to order Crafted Beers</string>
+    <string name="sort">Sort Alcohol Content</string>
+    <string name="filter">Filter by Beer Style</string>
+</resources>
